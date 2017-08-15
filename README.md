@@ -2,6 +2,20 @@
 技术平台太多，比如csdn，简书，掘金等等，每每看到好文章都会收藏起来。但时间久了，想回头看看某个文章时，发现在每个平台都收藏了一堆，很难找到。所以基于此，以后将自己看过的觉得不错的技术文章，统一收集在github，方便查找。
 
 ### 一. Android部分
-#### 1.1 热修复相关
-- [微信Android热补丁实践演进之路](http://dev.qq.com/topic/58feada400f8060c3140ab75)
+#### 1.1 热修复及插件相关
+- [AndFix github](https://github.com/alibaba/AndFix)
+
+- [Nuwa github](https://github.com/jasonross/Nuwa)
+
+- [Dexposed github](https://github.com/alibaba/dexposed)
+
+- [dynamic-load-apk github](https://github.com/singwhatiwanna/dynamic-load-apk)
+
+- [DroidPlugin github](https://github.com/Qihoo360/DroidPlugin)
+
+- [DynamicAPK github](https://github.com/CtripMobile/DynamicAPK)
+
+- [QZone实现原理解析](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a)
+
+- [Instant Run工作原理及用法中文翻译稿](http://www.jianshu.com/p/2e23ba9ff14b)
 
