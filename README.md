@@ -19,3 +19,9 @@
 
 - [Instant Run工作原理及用法中文翻译稿](http://www.jianshu.com/p/2e23ba9ff14b)
 
+#### 1.2 源码解析相关
+
+- [Android之Context底层原理](http://www.jianshu.com/p/d0355b30bc9b)
+
+- [EventBus源码解析](http://a.codekk.com/detail/Android/Trinea/EventBus%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)
+
