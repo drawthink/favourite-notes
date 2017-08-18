@@ -48,4 +48,10 @@
 - [Android性能优化典范 - 第5季](http://hukai.me/android-performance-patterns-season-5/)
 - [Android性能优化之运算篇](http://hukai.me/android-performance-compute/)
 
+#### 1.5 view相关
+
+- [android View绘制源码分析(上)](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=401462221&idx=1&sn=dda1f3500c993d643dcdae6dd2cc3d6f&scene=21#wechat_redirect)
+- [android View绘制源码分析（下）](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=401462221&idx=2&sn=12a84ecaf39e021eb10bd81cb00659af&scene=21#wechat_redirect)
+- [从此再有不愁自定义View——Android自定义view详解](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547668&idx=1&sn=b2667c46188c6674c90aa72c2fba4719&scene=21#wechat_redirect)
+
 
